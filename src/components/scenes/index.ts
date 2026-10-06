@@ -1,0 +1,9 @@
+export { default as EarthScene } from './EarthScene';
+export { default as RiverScene } from './RiverScene';
+export { default as ForestScene } from './ForestScene';
+export { default as CityScene } from './CityScene';
+export { default as VolcanoScene } from './VolcanoScene';
+export { default as GreenhouseScene } from './GreenhouseScene';
+export { default as IslandScene } from './IslandScene';
+export { default as MicroplasticScene } from './MicroplasticScene';
+export { default as WaterQualityScene } from './WaterQualityScene';
